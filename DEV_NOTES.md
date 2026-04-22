@@ -15,3 +15,8 @@ Personal development log — notes, findings, and ongoing work.
 - Investigated performance bottleneck, noted findings
 - Reviewed open issues, added labels
 - Noted known limitation in docs
+
+## 2026-04-22
+- Added CONTRIBUTING.md stub
+- Tidied up project structure
+- Fixed off-by-one error in loop
