@@ -20,3 +20,8 @@ Personal development log — notes, findings, and ongoing work.
 - Added CONTRIBUTING.md stub
 - Tidied up project structure
 - Fixed off-by-one error in loop
+
+## 2026-05-13
+- Added basic retry logic for network requests
+- Added basic usage examples to README
+- Added type hints to helper functions
