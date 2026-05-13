@@ -28,3 +28,8 @@ Personal development log — notes, findings, and ongoing work.
 
 ## 2026-05-13
 - Pinned dependency versions for reproducibility
+
+## 2026-05-13
+- Checked for memory leaks in long-running path
+- Noted known limitation in docs
+- Cross-checked behaviour against spec
